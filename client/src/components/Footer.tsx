@@ -34,7 +34,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.instagram.com/chrislernunes/"
                 className="text-white/50 hover:text-white transition-colors duration-200"
                 aria-label="Instagram"
               >
