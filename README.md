@@ -1,8 +1,8 @@
-# FileWizard - Free Online File Conversion Tools
+# JUPITER - Free Online File Conversion Tools
 
-FileWizard is a modern, browser-based application for PDF and file conversions. It offers a variety of tools to convert, manipulate, and optimize files entirely on the client-side without requiring any server processing or user authentication.
+JUPITER is a modern, browser-based application for PDF and file conversions. It offers a variety of tools to convert, manipulate, and optimize files entirely on the client-side without requiring any server processing or user authentication.
 
-[![FileWizard Banner]
+[![JUPITER](https://github.com/chrislernunes/Jupiter/blob/main/JUPITER.jpeg)]
 
 ## Features
 
